@@ -9,19 +9,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/chirag-prajapat-1775bb371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:chirag.prajapat.cg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Chiragprajapat003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com/chiragprajapat003" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -67,17 +67,17 @@
 
 <p align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
+  <a href="https://github.com/Chiragprajapat003">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chiragprajapat003&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <a href="https://github.com/Chiragprajapat003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiragprajapat003&theme=radium&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=38BDF8" alt="Top Languages" />
+  <a href="https://github.com/Chiragprajapat003">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragprajapat003&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=38BDF8" alt="Top Languages" />
   </a>
 </p>
 
