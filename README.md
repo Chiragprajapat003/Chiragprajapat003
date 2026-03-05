@@ -1,7 +1,7 @@
 <div align="center">
   
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Chirag+Prajapat!+👋;Full-Stack+Web+Developer" alt="Chirag Prajapat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I+am+Chirag+Prajapat!+👋;Full-Stack+Web+Developer" alt="Chirag Prajapat" />
 </div>
 
 <h3 align="center">Crafting Innovative Solutions | Turning Logic into Impactful Code</h3>
