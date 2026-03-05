@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Chirag%20Prajapat!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=51&descAlign=62" />
+  
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Chirag+Prajapat!+👋;Full-Stack+Web+Developer" alt="Chirag Prajapat" />
 </div>
 
 <h3 align="center">Crafting Innovative Solutions | Turning Logic into Impactful Code</h3>
@@ -29,6 +31,11 @@
 ---
 
 ## 👨‍💻 About Me
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600" alt="Coding GIF" />
+</div>
+<br />
 
 * 🎓 I’m a passionate **Full-Stack Web Developer**.
 * 🔭 I’m currently focused on building aesthetic and dynamic web applications.
@@ -71,7 +78,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Chiragprajapat003&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Chiragprajapat003">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiragprajapat003&theme=radium&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiragprajapat003&theme=radium&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -97,6 +104,18 @@
 
 <br/>
 
+---
+
+## 📅 GitHub Commit History
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragprajapat003&theme=radium&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_title=true" alt="Commit Activity Graph" />
+</p>
+
+<br/>
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=100&lines=Thank+you+for+visiting!+👋;Have+a+great+day+ahead!" alt="Thank You" />
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
