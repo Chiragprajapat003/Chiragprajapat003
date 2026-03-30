@@ -113,37 +113,15 @@
 
 ---
 
-name: Generate Snake Animation
+## 🐍 GitHub Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate Snake (Light & Dark)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Chiragprajapat003
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chiragprajapat003/Chiragprajapat003/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chiragprajapat003/Chiragprajapat003/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chiragprajapat003/Chiragprajapat003/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
