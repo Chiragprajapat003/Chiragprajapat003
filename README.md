@@ -28,7 +28,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 🌱 &nbsp;**Currently learning** — DSA · Advanced React · Backend Architecture · AI Workflows  
 💬 &nbsp;**Ask me about** — React · Node.js · MongoDB · REST APIs  
 📫 &nbsp;**Reach me at** — chirag.prajapat.cg@gmail.com  
-🌐 &nbsp;**Portfolio** — [portfolio-0dbecc.netlify.app](https://chirag-portfolio03.netlify.app/)  
+🌐 &nbsp;**Portfolio** — [chirag-portfolio03.netlify.app](https://chirag-portfolio03.netlify.app/)  
 
 ---
 
@@ -36,11 +36,12 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/Chiragprajapat003/Chiragprajapat003/blob/main/chirag_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-prajapat-1775bb371/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chiragprajapat003)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chiragprajapat003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-0dbecc.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Chirag_Prajapat/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://chirag-portfolio03.netlify.app/)
 
 </div>
 <br />
@@ -78,10 +79,23 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 
 ---
 
+## <h2 align="center">🧩 LeetCode Progress</h2>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Chirag_Prajapat/)
+
+<a href="https://leetcode.com/u/Chirag_Prajapat/">
+  <img src="https://leetcard.jacoblin.cool/Chirag_Prajapat?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+---
+
 ## <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
   <a href="https://github.com/Chiragprajapat003">
     <img src="https://github-readme-stats.vercel.app/api?username=Chiragprajapat003&show_icons=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
   </a>
@@ -94,7 +108,21 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragprajapat003&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
+---
 
+## ⭐ Featured Projects
+
+### 🚀 Portfolio Website
+*A personal portfolio showcasing my skills, projects, and achievements with sleek animations.*
+- **Stack:** HTML, CSS, React.js
+- 🔗 [View Repository](#) | 🌐 [Live Demo](https://chirag-portfolio03.netlify.app/)
+
+### 🌟 Project Title 2
+*A brief description of what this project does and the technologies used.*
+- **Stack:** Node.js, MongoDB
+- 🔗 [View Repository](#) | 🌐 [Live Demo](#)
+
+<br/>
 
 ---
 
