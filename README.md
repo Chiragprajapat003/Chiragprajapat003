@@ -94,21 +94,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragprajapat003&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
----
 
-## ⭐ Featured Projects
-
-### 🚀 Portfolio Website
-*A personal portfolio showcasing my skills, projects, and achievements with sleek animations.*
-- **Stack:** HTML, CSS, React.js
-- 🔗 [View Repository](#) | 🌐 [Live Demo](#)
-
-### 🌟 Project Title 2
-*A brief description of what this project does and the technologies used.*
-- **Stack:** Node.js, MongoDB
-- 🔗 [View Repository](#) | 🌐 [Live Demo](#)
-
-<br/>
 
 ---
 
