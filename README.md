@@ -28,7 +28,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 🌱 &nbsp;**Currently learning** — DSA · Advanced React · Backend Architecture · AI Workflows  
 💬 &nbsp;**Ask me about** — React · Node.js · MongoDB · REST APIs  
 📫 &nbsp;**Reach me at** — chirag.prajapat.cg@gmail.com  
-🌐 &nbsp;**Portfolio** — [portfolio-0dbecc.netlify.app](https://portfolio-0dbecc.netlify.app/)  
+🌐 &nbsp;**Portfolio** — [portfolio-0dbecc.netlify.app](https://chirag-portfolio03.netlify.app/)  
 
 ---
 
