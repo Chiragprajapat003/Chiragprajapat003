@@ -46,12 +46,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 </div>
 <br />
 
-* 🎓 I’m a passionate **Full-Stack Web Developer**.
-* 🔭 I’m currently focused on building aesthetic and dynamic web applications.
-* 🌱 I’m constantly learning the latest web technologies, frameworks, and best practices.
-* 💬 Ask me about **HTML, CSS, React, Node.js, and MongoDB**.
-* 📫 How to reach me: [prajapatchirag762@gmail.com](mailto:YOUR_EMAIL@gmail.com)
-* ⚡ Fun fact: I love solving complex logical problems and bringing UI designs to life!
+
 
 ---
 
