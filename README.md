@@ -105,21 +105,6 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 
 ---
 
-## ⭐ Featured Projects
-
-### 🚀 Portfolio Website
-*A personal portfolio showcasing my skills, projects, and achievements with sleek animations.*
-- **Stack:** HTML, CSS, React.js
-- 🔗 [View Repository](#) | 🌐 [Live Demo](https://chirag-portfolio03.netlify.app/)
-
-### 🌟 Project Title 2
-*A brief description of what this project does and the technologies used.*
-- **Stack:** Node.js, MongoDB
-- 🔗 [View Repository](#) | 🌐 [Live Demo](#)
-
-<br/>
-
----
 
 ## 🕹️ Contribution Graph
 
