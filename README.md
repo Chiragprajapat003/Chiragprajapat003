@@ -36,7 +36,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chiragprajapat003/Chiragprajapat003/blob/main/Chiragprajapat_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://cdn.jsdelivr.net/gh/Chiragprajapat003/Chiragprajapat003@main/Chiragprajapat.pdf%20(2).pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-prajapat-1775bb371/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chiragprajapat003)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajapat1801)
