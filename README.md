@@ -14,7 +14,7 @@
 
 </div>
 
----![alt text](image.png)
+
 
 ## 🧑‍💻 About Me
 
