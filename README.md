@@ -37,10 +37,6 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://cdn.jsdelivr.net/gh/Chiragprajapat003/Chiragprajapat003@main/Chiragprajapat.pdf%20(2).pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-prajapat-1775bb371/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chiragprajapat003)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajapat1801)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chiragprajapat003)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Chirag_Prajapat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://chirag-portfolio03.netlify.app/)
 
 </div>
 <br />
@@ -51,7 +47,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3" />
@@ -59,7 +55,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" />
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" />
@@ -67,7 +63,7 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" title="C++" />
 </p>
 
-### Tools
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" />
