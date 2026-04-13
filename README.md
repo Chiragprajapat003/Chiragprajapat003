@@ -3,14 +3,14 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chirag%20Prajapat&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Apps+%F0%9F%9A%80;MERN+Stack+%2B+REST+API+Developer;React+%7C+TailwindCSS+%7C+Node.js;Always+Learning+New+Technologies+%E2%9A%A1" alt="Typing SVG" />
+
 <!-- Profile Views & Trophies -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Chiragprajapat003&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chiragprajapat003?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" />
 </p>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Apps+%F0%9F%9A%80;MERN+Stack+%2B+REST+API+Developer;React+%7C+TailwindCSS+%7C+Node.js;Always+Learning+New+Technologies+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
@@ -27,8 +27,6 @@ I build scalable and user-focused web applications using the **MERN stack**, wit
 🔭 &nbsp;**Currently building** — Portfolio Projects · Full-Stack Web Apps · API Integrations  
 🌱 &nbsp;**Currently learning** — DSA · Advanced React · Backend Architecture · AI Workflows  
 💬 &nbsp;**Ask me about** — React · Node.js · MongoDB · REST APIs  
-📫 &nbsp;**Reach me at** — chirag.prajapat.cg@gmail.com  
-🌐 &nbsp;**Portfolio** — [chirag-portfolio03.netlify.app](https://chirag-portfolio03.netlify.app/)  
 
 ---
 
